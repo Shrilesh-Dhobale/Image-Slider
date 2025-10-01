@@ -24,6 +24,12 @@
 .left{
     left: -82px;
 }
+.left:hover{
+    transform: scale(1.2);
+}
 .right{
     right: -82px;
+}
+.right:hover{
+    transform: scale(1.2);
 }
