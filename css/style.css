@@ -18,6 +18,8 @@
     height:80px;
     top:50%;
     transform: translateY(-50%);
+    cursor: pointer;
+    transition: 0.5s;
 }
 .left{
     left: -82px;
