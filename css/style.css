@@ -11,4 +11,5 @@
     height:400px;
     width:500px;
     object-fit: cover;
+    border-radius: 10px;
 }
