@@ -1,3 +1,7 @@
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    margin:50px 45%;
+}
 .container{
     width:fit-content;
     margin:100px auto;
