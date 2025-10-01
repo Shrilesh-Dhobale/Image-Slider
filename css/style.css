@@ -3,3 +3,8 @@
     margin:100px auto;
     
 }
+.slide{
+    height:400px;
+    width:600px;
+    object-fit: cover;
+}
