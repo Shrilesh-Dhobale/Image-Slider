@@ -13,3 +13,15 @@
     object-fit: cover;
     border-radius: 10px;
 }
+.arrow{
+    position: absolute;
+    height:80px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.left{
+    left: -82px;
+}
+.right{
+    right: -82px;
+}
